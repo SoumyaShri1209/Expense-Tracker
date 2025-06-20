@@ -40,9 +40,8 @@ Open with Live Server (Make sure you have the Live Server extension installed)
 
 4. The app will launch in your browser. Start adding expenses!
 
-## 👩‍💻 Author
-- Soumya Shri
-- GitHub: @soumyashri1209
+**Author:** [Soumya Shri](https://github.com/SoumyaShri1209)
+
 
 ## 📄 License
 This project is licensed under the MIT License.
